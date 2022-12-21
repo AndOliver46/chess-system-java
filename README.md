@@ -4,4 +4,5 @@ O jogo é em console, para executar corretamente, é necessário que seja aberto
 $ cd .\chess-system\src
 $ java application\Program.java
 
-![image](https://user-images.githubusercontent.com/101358552/209024561-692e9a46-9738-455a-9710-189a4564e6e8.png)
+</br>
+![image](https://user-images.githubusercontent.com/101358552/209024661-7e562f2b-1462-4f02-80a3-f8bcd33a8d45.png)

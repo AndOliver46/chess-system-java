@@ -1,6 +1,9 @@
-Projeto de Jogo de Xadrez que engloba todos os conhecimentos adiquiridos até a seção 16 do curso Java Completo ministrado pelo Professor Nélio Alves.
+Console Chess Game, this game is part of a Full Java course by Nelio Alves. All OOP concepts were applied in this project (Encapsulation, inheritance,  polimorfism and abstraction).
 
-O jogo é executado em modo console, é necessário que seja aberto em um terminal como GitBash ou PowerShell:</br>
+This game is executed in console mode, its recommended that you have a GitBash or a PowerShell terminal.</br>
+
+Commands:
+
 $ cd .\chess-system\src</br>
 $ java application\Program.java</br>
 
